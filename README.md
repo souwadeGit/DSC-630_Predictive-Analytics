@@ -1,1 +1,1 @@
-# DSC630
+# DSC630-Predictive Analytics
